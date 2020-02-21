@@ -1,0 +1,3 @@
+Con los granos del maíz se pueden hacer diferentes productos como polenta o maicena :woman_cook::man_cook:. Para eso tenemos que desgranarlo, aunque no sepamos la cantidad exacta de granos porque depende del tamaño del maíz :sweat_smile:; pero gracias a la programación, eso no va a ser un problema. :computer:
+
+> Definí e invocá el procedimiento `Desgranar` para que saque todos los granos (bolitas rojas) hasta que no haya más. 
