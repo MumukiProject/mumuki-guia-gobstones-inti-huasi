@@ -1,0 +1,1 @@
+A aproximádamente 1 hora de la Ciudad de San Luis :red_car: se encuentra uno de los yacimientos prehistóricos más importantes del continente: _Inti Huasi_. Una gruta donde se encontraron restos que datan de hasta 6000 años antes de Cristo. Entre ellos están las conanas y morteros, herramientas usadas para la molienda de granos :corn:. ¡Investiguemos cómo se usaban!
