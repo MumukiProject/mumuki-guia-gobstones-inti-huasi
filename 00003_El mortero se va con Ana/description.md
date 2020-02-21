@@ -1,3 +1,7 @@
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-inti-huasi/master/assets/attires/config_1582308878911.json"></gs-attire>
+
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-brazos-roboticos/master/assets/toolbox_1581090983723.xml"></gs-toolbox>
+
 La polenta es un polvo grueso y la maicena es uno mucho más fino, pero ambos se obtienen moliendo los granos de maíz. ¿Cómo logramos cada uno entonces? :scream: 
 
 Para la polenta usaremos una **conana**, que es una piedra plana en la que se aplastan los granos con otra piedra más pequeña. Para la maicena necesitaremos un **mortero**, porque su forma de vaso, más redondeado que la conana, permite moler mejor los granos. :muscle:
